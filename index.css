@@ -1,0 +1,45 @@
+/*index.css*/
+/* Create your test CSS here */
+html{
+
+display: block;
+
+}
+body {
+  padding-bottom: 8px;
+  margin: 0;
+}
+p {
+    color: rgb(255, 0, 102);
+  }
+  
+.listbox {
+width: 200px;
+background-color: rgba(0, 255, 255, 0.13);
+height: 2000px;
+
+float: left;
+}
+
+.list{
+  
+  background-color: aqua;
+  height: 500px;
+  
+  float: left;
+  }
+
+
+.textbox {
+  display: flex;
+  height: 2000px;
+  background-color: rgba(246, 250, 215, 0.158);
+flex: 1;
+}
+
+.box{
+display: flex;
+
+
+
+}
